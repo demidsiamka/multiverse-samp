@@ -225,7 +225,7 @@ class Main(ctk.CTk):
             messagebox.showerror("Ошибка", "Сначала выберите правильный путь к игре.")
             return
 
-        required_files = ["vorbis.dll", "vorbisFile.dll", "vorbisHooked.dll", "samp.exe", "samp.saa"]
+        required_files = ["vorbis.dll", "vorbisFile.dll", "vorbisHooked.dll", "samp.exe", "samp.saa", "samp.dll"]
         script_dir = os.path.dirname(os.path.abspath(__file__))
         missing_sources = [f for f in required_files if not os.path.exists(os.path.join(script_dir, f))]
         
