@@ -10,7 +10,7 @@ from tkinter import filedialog, messagebox
 ctk.set_appearance_mode("Dark")
 
 CONFIG_FILE = "launcher_config.json"
-SERVERS_URL = "https://snippet.host/fekqyy/raw"
+SERVERS_URL = "https://snippet.host/fekqyy/raw" # ССЫЛКА НА СПИСОК СЕРВЕРОВ (МОЖЕТЕ ЗАМЕНИТЬ НА СВОЮ)
 
 class Main(ctk.CTk):
     def __init__(self):
