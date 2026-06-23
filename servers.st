@@ -1,0 +1,8 @@
+Advance Blue": ("ip": "185.169.134.239", "port": "7777", "color": "#00E5FF", "glow": "#005F73", "desc": "Advance RP Blue. Высокий онлайн и постоянный экшен.")
+Advance Green": ("ip": "185.169.134.238", "port": "7777", "color": "#39FF14", "glow": "#1A5F1A", "desc": "Advance RP Green. Идеальный выбор для комфортного старта.")
+Advance Red": ("ip": "185.169.134.237", "port": "7777", "color": "#FF073A", "glow": "#5F0010", "desc": "Advance RP Red. Криминальный центр и противостояния.")
+Advance Choco": ("ip": "185.169.134.157", "port": "7777", "color": "#7A431D", "glow": "#42240F", "desc": "Advance RP Chocolate. Атмосфера старой школы.")
+Advance Lime": ("ip": "185.169.134.156", "port": "7777", "color": "#BFFF00", "glow": "#597500", "desc": "Advance RP Lime. Свежий и динамичный игровой мир.")
+Samp RP": ("ip": "legacy.samp-rp.ru", "port": "7777", "color": "#87CEEB", "glow": "#3A6E85", "desc": "Samp RP Legacy. Классический проект с большой историей.")
+MonserDM": ("ip": "one.monser.ru", "port": "7777", "color": "#FFD700", "glow": "#665600", "desc": "Первый сервер MonserDM. Главная тренировочная база.")
+Trinity RP": ("ip": "185.169.134.84", "port": "7777", "color": "#FF9F00", "glow": "#663F00", "desc": "Trinity RolePlay #1. Уникальный игровой режим и сильный упор на RP.")
