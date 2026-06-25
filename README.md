@@ -18,4 +18,3 @@
 Для запуска лаунчера необходим Python версии 3.7 или выше, а также установленная библиотека `customtkinter`.
 
 pip install customtkinter
-(bash/cmd)
